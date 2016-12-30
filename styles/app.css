@@ -1,0 +1,22 @@
+.round {
+    border: 2px solid;
+    border-radius: 8px;
+    margin: 0;
+    padding: 10px;
+}
+
+.red {
+  border-color: red;
+}
+
+.yellow {
+  border-color: #ff8000;
+}
+
+.green {
+  border-color: green;
+}
+
+.invisible {
+  border-color: white;
+}
